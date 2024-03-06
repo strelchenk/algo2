@@ -15,7 +15,7 @@ body {
 .square,
 .palette,
 .clear {
-    background: black;
+    background: white;
     flex-grow: 0;
     flex-shrink: 0;
     border: .2px solid rgb(66, 66, 66);
@@ -23,7 +23,7 @@ body {
 }
 
 .clear {
-    color: black;
+    color: blue;
     display: flex;
     align-items: center;
     justify-content: center;
